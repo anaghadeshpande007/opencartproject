@@ -1,0 +1,23 @@
+14/12/2023 04:29:17 PM: DEBUG: utilities.customLogger: Debug log
+14/12/2023 04:29:17 PM: INFO: utilities.customLogger: Information log 
+14/12/2023 04:29:17 PM: WARNING: utilities.customLogger: Warning log
+14/12/2023 04:29:17 PM: ERROR: utilities.customLogger: Error log
+14/12/2023 04:29:17 PM: CRITICAL: utilities.customLogger: Critical log
+14/12/2023 04:29:31 PM: DEBUG: utilities.customLogger: ***********test_001_accnt_registration is started**********
+14/12/2023 04:29:36 PM: INFO: utilities.customLogger: launching application
+14/12/2023 04:29:36 PM: INFO: utilities.customLogger: clicking on myaccount....register
+14/12/2023 04:29:37 PM: INFO: utilities.customLogger: provinding customer deatils for registration.....
+14/12/2023 04:29:46 PM: INFO: utilities.customLogger: account registration is passed.....
+14/12/2023 04:29:46 PM: DEBUG: utilities.customLogger: ******** test_001 is finished***************
+14/12/2023 04:29:53 PM: INFO: utilities.customLogger: *****************started test_002_login***************
+14/12/2023 04:29:59 PM: INFO: utilities.customLogger: ************** End of test_002_login*******************
+14/12/2023 04:30:05 PM: INFO: utilities.customLogger: **********started test_003_login_datadriven******
+14/12/2023 04:30:31 PM: INFO: utilities.customLogger: **********End of test_003_login_datadriven**************************
+****
+14/12/2023 04:29:59 PM: INFO: utilities.customLogger: ************** End of test_002_login*******************
+14/12/2023 04:30:05 PM: INFO: utilities.customLogger: **********started test_003_login_datadriven******
+14/12/2023 04:30:31 PM: INFO: utilities.customLogger: **********End of test_003_login_datadriven**************************
+****
+14/12/2023 04:29:59 PM: INFO: utilities.customLogger: ************** End of test_002_login*******************
+14/12/2023 04:30:05 PM: INFO: utilities.customLogger: **********started test_003_login_datadriven******
+14/12/2023 04:30:31 PM: INFO: utilities.customLogger: **********End of test_003_login_datadriven**************************

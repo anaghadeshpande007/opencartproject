@@ -1,0 +1,1 @@
+pytest -s -v E:\pythonProject2\testCases\
